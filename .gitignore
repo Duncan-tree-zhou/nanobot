@@ -1,4 +1,3 @@
-.worktrees/
 .assets
 .docs
 .env
@@ -22,4 +21,8 @@ poetry.lock
 botpy.log
 nano.*.save
 .DS_Store
+.idea
+.tool-versions
+.claude
+openspec
 uv.lock
